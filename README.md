@@ -10,8 +10,6 @@ Typecho单栏小清新优雅主题
  1. 小清新又高大上，非常优雅的全平台自适应单栏主题
  2. 完美移植其主题特色：评论框，很好看哦！
 
-![Doby-Tsin-Theme-Comments](https://ww4.sinaimg.cn/large/a15b4afegw1f9id4mht47j20h809mdix)
-
 ---
 # 下载
  1. 若需要安装GravatarShow头像显示插件，方法请点击：https://sangsir.com/archives/GravatarShow.html
